@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    # 만든 앱
+    "tabom.apps.TabomConfig",
 ]
 
 MIDDLEWARE = [
